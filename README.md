@@ -1,8 +1,10 @@
 # Convolutional Image Processing
 
 High level abstraction of the Python Imaging Library (PIL) that enables filters and generic image processing.
-Contains two class: StdImg and ConvImg
+
 ------------------------------------------------------------------------------------------------------------------------
+
+Contains two class: StdImg and ConvImg
 
 Motivation:
 This project was done to gain experience and exposure in deep Convolutional Neural Network (CNN). CNN requires understanding
